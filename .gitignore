@@ -1,3 +1,6 @@
 .htaccess
 HISTORY.txt
 README.txt
+include/function.php
+include/config.php
+admin/include/function.php
